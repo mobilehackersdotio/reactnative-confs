@@ -1,0 +1,18 @@
+[
+  {
+    "name": "App.js Conf",
+    "url": "https://appjs.co/",
+    "startDate": "2019-04-04",
+    "endDate": "2019-04-05",
+    "city": "KRAKÓW",
+    "country": "Poland"
+  },
+  {
+    "name": "Chain React",
+    "url": "https://infinite.red/ChainReactConf",
+    "startDate": "2019-07-11",
+    "endDate": "2019-07-12",
+    "city": "Portland",
+    "country": "U.S.A"
+  }
+]
