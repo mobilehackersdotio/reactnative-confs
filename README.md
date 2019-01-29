@@ -1,6 +1,6 @@
 # reactnative-confs
 
-An open source community-curated list of ReactNative conferences around the world for mobile developers who like to write once deploy everywhere. #reactNative
+An open source community-curated list of React Native conferences around the world for mobile developers who like to write once deploy everywhere. #reactNative
 
 Adding a conference
 -------------------
